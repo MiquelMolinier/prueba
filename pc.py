@@ -109,4 +109,3 @@ print(q)
 print(maxmin(p,q))
 plt.axis((2,4,3,4))
 plt.plot([2,4],[3,4],'--r')
-# %%
